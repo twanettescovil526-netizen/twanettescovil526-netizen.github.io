@@ -1,6 +1,6 @@
-# [Your Name] - Data Analysis Portfolio
+# Twanette Scovil - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains my complete professional, one-page data analysis portfolio website.
 
 ## About This Portfolio Template
 
@@ -14,24 +14,19 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Advanced Excel Capstone: Boston Housing Market
+*Analysis of the Boston Housing Market data set using the 5 key phases of data analytics: data understanding & preparation, data visualization & eda, regression analysis, hypothesis testing & decision making, and conclusion & recommendations. Skills I used were data visualization, pivot tables, eda, and statistical modeling.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Introduction to Programming: Predicting Salaries Using Data Analytics
+*The goal of this project was to apply  data analytics principles and statistical modeling to quantify the relationship between a single independent variable (X: Years of Experience) and a continuous dependent variable (Y: Salary), using the given Salary_Data.csv file. Skills I used were Linear Regression, Predictive Analytics, Statistical Modeling, etc.*
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI, Matplotlib
+- **Data Analysis**: SQL, Python (Pandas), Excel, etc.
 
 ## 💡 How to Use This Template
 
@@ -42,7 +37,7 @@ Click the green **"Use this template"** button at the top of this repository pag
 
 ### 2. Name Your Repository for GitHub Pages
 This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
+`twanettescovil526-netizen.io`
 *(Replace `your-username` with your actual GitHub username.)*
 
 ### 3. Customize Your Portfolio
